@@ -1,5 +1,5 @@
 {
-  "name": "create-laman",
+  "name": "create-lamanjs",
   "version": "1.0.0",
   "description": "Scaffold a new LamanHub project",
   "main": "./dist/run.js",
@@ -18,9 +18,9 @@
   "author": "akbaraditamasp <akbaraditamasp@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lamanhub/create-laman.git"
+    "url": "git+https://github.com/lamanhub/create-lamanjs.git"
   },
-  "homepage": "https://github.com/lamanhub/create-laman",
+  "homepage": "https://lamanjs.lamanhub.site",
   "license": "MIT",
   "type": "module",
   "devDependencies": {

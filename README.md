@@ -1,13 +1,13 @@
-# create-laman
+# create-lamanjs
 
 Scaffold a new LamanHub project using starter kits
 
 ## Usage
 
 ```bash
-npm init laman my-web
+npm init lamanjs my-web
 ```
 
 ## Documentation
 
-The documentation is available on the [LamanHub](https://lamanhub.site/docs/what-is-lamanhub.html)
+The documentation is available on the [Laman.js Official Documentation](https://lamanjs.lamanhub.site/docs/introduction.html)
