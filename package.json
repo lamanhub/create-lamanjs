@@ -9,7 +9,7 @@
     "prepublishOnly": "npm run build"
   },
   "bin": {
-    "create-laman": "./dist/run.js"
+    "create-lamanjs": "./dist/run.js"
   },
   "files": [
     "dist"
